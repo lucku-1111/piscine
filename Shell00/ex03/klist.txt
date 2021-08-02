@@ -1,0 +1,5 @@
+Credentials cache: API:76003321-0F9A-4689-8F82-5786CF3C8386
+        Principal: seoklee@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Oct 12 16:55:32 2020  Oct 13 02:55:28 2020  FPIA   krbtgt/42SEOUL.KR@42SEOUL.KR
